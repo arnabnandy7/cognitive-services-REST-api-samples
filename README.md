@@ -52,3 +52,5 @@ These REST samples require some steps:
 - Speech: https://github.com/Azure-Samples/cognitive-services-speech-sdk
 - Personalizer: https://github.com/Azure-Samples/cognitive-services-personalizer-samples
 - Content Moderator: https://github.com/Azure-Samples/cognitive-services-content-moderator-samples
+
+<!-- GitAds-Verify: 1NH9ANCF8RIN7SJDM1IC84W32M2WSVIY -->
